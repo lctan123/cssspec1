@@ -26,5 +26,9 @@
     	Replacing ALL "-" by "*".
 
 	DISPLAY FORMATTED-ALTERNATE.
+	
+	Inspect FORMATTED-ALTERNATE Replacing Characters by "*".
+	DISPLAY FORMATTED-ALTERNATE.
+
     Stop Run.
 
